@@ -1,11 +1,16 @@
 _repo: Ireland-in-Fiction-A-Guide-to-Irish-Novels-Tales-Romances-and-Folk-lore_66638
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66638-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Stephen J.
     gutenberg_agent_id: '53892'
     url: http://www.gutenberg.org/2009/agents/53892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66638#Ireland-in-Fiction-A-Guide-to-Irish-Novels-Tales-Romances-and-Folk-lore
 gutenberg_issued: '2021-10-31'
 identifiers:
   gutenberg: '66638'
